@@ -8,11 +8,11 @@
 
 Tecnologias que utilizo:
 
-⚙️ JavaScript | Node.js | SQL | Java
+⚙️  Node.js | SQL | Java | Nest
 
-🛠️ Git | GitHub | VS Code
+🛠️ Git | GitHub 
 
-🌐 HTML | CSS | 
+🌐 HTML | CSS | JavaScript
 
 Interesses:
 
